@@ -27,6 +27,7 @@ Diane Degetter
 ##### Winning Vote Count and Percentage:
 73.8% (272,892)
 
+![Election_Analysis_TXT_screen](https://user-images.githubusercontent.com/86164867/126208949-9d171e94-c3ea-4e5e-9346-790260bca5c9.PNG)
 
 ## Resources
 
