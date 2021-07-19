@@ -34,5 +34,11 @@ Diane Degetter
 ![Election_Analysis_TXT_screen](https://user-images.githubusercontent.com/86164867/126208949-9d171e94-c3ea-4e5e-9346-790260bca5c9.PNG)
 
 ### Summary
-The scritpt found in PyPoll_Challenge.py can be used for any election in which the results are delivered in the same format as election_results.csv.  
+The scritpt found in PyPoll_Challenge.py can be used to audit any election in which the results are delivered in the same format as election_results.csv, with minor adjustments to labeling.  The for loops and conditional statements will remain intact, but the names will be adjusted based upon the type of election.
+
+##### Adjustment for Ballot Measure Election
+The scrpit can be tweaked to audit a single ballot measure election. The candidate_options list and candidate_votes dictionary need to be renamed to measure_options and measure_votes, repectively.  The candidate_name variable will also need to be changed to measure_result.
+
+##### Adjustment for Federal Election
+The script can also be tweaked to measure votes for individual states in a federal election, instead of counties in a state election.  All variables, lists, and dictionaries that use the word 'county' will need to have the word replaced with 'state'.  
 
