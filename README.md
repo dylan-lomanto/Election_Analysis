@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ### Project Overview
-The election audit was conducted to return the following information: total votes cast, total and percentage of votes by county, largest county turnout, total and percentage of votes by candidate, election winner, winning vote count, and winning vote percentage.  
+The election audit was conducted to return the following information for a state elcetion in Colorado: total votes cast, total and percentage of votes by county, largest county turnout, total and percentage of votes by candidate, election winner, winning vote count, and winning vote percentage.  
 
 ### Election-Audit Results
 
