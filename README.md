@@ -33,10 +33,6 @@ Diane Degetter
 
 ![Election_Analysis_TXT_screen](https://user-images.githubusercontent.com/86164867/126208949-9d171e94-c3ea-4e5e-9346-790260bca5c9.PNG)
 
-## Resources
+### Summary
+The scritpt found in PyPollChallenge can be used for any election in which the results are delivered in the same format as election_results.csv.  
 
-## Summary
-
-## Challenge Overview
-
-## Challenge Findings
